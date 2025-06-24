@@ -59,3 +59,8 @@ While I was able to develop several models that performed better than baseline, 
 I would have thought that the numeric categories would have provided a decent model but it was only after transforming categorical columns for inclusion that I began to see MSE improvements. Particularly frustrating was the fact that I had a good model working very early on in process with an MSE of less than 1 for both train and test but I lost it with iteration, and have been unable to reproduce. I will go back and iterate on which columns I select for inclusion and see if it helps, time permitting.
 
 That said, there are some common sense measures that I've been able to derive from the dataset that will allow for some high-level inferences that address the business objective of advising used car dealers as to what inventory they should stock, enumerated below.
+
+### Links
+Git Repo: https://github.com/stephen-scheiman/PracticalApplicationII
+
+Jupyter Notebook: https://github.com/stephen-scheiman/PracticalApplicationII/blob/main/prompt_II.ipynb
